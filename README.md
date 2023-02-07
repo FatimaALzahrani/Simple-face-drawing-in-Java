@@ -22,7 +22,8 @@ Just play and practice the computer graphic test :)
 ## To draw Second smile face 
 ### Code
 #### write this code in paint method
-`  g.drawArc(430,240,150,100,0,-180);
+##
+        g.drawArc(430,240,150,100,0,-180);
         g.translate(300, 50);
         g.setColor(Color.red);
         g.fillArc(50, 50, 100, 100,0,90);
@@ -35,7 +36,7 @@ Just play and practice the computer graphic test :)
         g.fillOval(150, 150, 20, 20);
         g.fillOval(230, 150, 20, 20);
         g.setColor(Color.black);
-        g.drawArc(180, 210, 40, 40, -80, 130);`
+        g.drawArc(180, 210, 40, 40, -80, 130);
         
 ### Output
 <img width="133" alt="face2" src="https://user-images.githubusercontent.com/107775566/217241691-a928c13e-083e-41b7-820b-ad01bc3cad07.png">
