@@ -4,7 +4,8 @@ Just play and practice the computer graphic test :)
 ## To draw first smile face 
 ### Code
 #### write this code in paint method
-`g.setColor(Color.yellow);
+##      
+        g.setColor(Color.yellow);
         g.drawArc(100,100,250,250,0,360);
         g.fillArc(100,100,250,250,0,360);
         g.setColor(Color.black);
@@ -12,7 +13,7 @@ Just play and practice the computer graphic test :)
         g.fillArc(170,185,25,25,0,360);
         g.drawArc(255,185,25,25,0,360);
         g.fillArc(255,185,25,25,0,360);
-        g.drawArc(150,215,150,100,0,-180);`
+        g.drawArc(150,215,150,100,0,-180);
            
 ### Output
 <img width="125" alt="face1" src="https://user-images.githubusercontent.com/107775566/217241656-f5ff4175-bd15-4a2f-9160-d0fc87a3b2ac.png">
